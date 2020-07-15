@@ -26,6 +26,7 @@ def find_the_cheese(array)
   else
     false 
   end 
+  array_x
 end 
 
   
