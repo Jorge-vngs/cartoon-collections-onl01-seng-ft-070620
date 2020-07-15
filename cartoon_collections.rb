@@ -22,7 +22,7 @@ end
 cheese = ["cheddar", "gouda", "camembert"]
 def find_the_cheese(cheese)
   if cheese.include?("cheddar")
-    true
+    puts "cheddar"
   else
     false
   end
