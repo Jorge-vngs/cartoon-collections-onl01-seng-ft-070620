@@ -19,14 +19,14 @@ def long_planeteer_calls(short_words)
    end
 end
 
-def find_the_cheese(array)
-  array_x = ["cheddar", "gouda", "camembert"]
-   if array_x.include ("cheddar")
-    true ("cheddar")
+cheese = ["cheddar", "gouda", "camembert"]
+def find_the_cheese(cheese)
+  if cheese.include?("cheddar")
+    true
   else
-    false 
-  end 
-end 
+    false
+  end
+end
 
   
  
