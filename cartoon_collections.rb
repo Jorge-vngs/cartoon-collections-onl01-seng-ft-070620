@@ -26,7 +26,7 @@ if array_x.include?("cheddar")
 else 
   fals 
 end 
-end 
+
 
 
 
