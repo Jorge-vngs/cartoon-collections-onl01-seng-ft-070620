@@ -20,7 +20,7 @@ def long_planeteer_calls(short_words)
 end
 
 def find_the_cheese(array)
-array = ["crackers", "gouda", "thyme"]  
+array = ["cheddar", "gouda", "camembert"]  
   
 end 
 
