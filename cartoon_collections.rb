@@ -24,6 +24,7 @@ array_x = ["cheddar", "gouda", "camembert"]
 if array_x.include?("cheddar")
   true 
 else
+  false
 end 
 
 
