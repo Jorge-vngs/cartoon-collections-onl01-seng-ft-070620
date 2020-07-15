@@ -26,5 +26,4 @@ def find_the_cheese(cheese)
   else
     false
   end
-cheese
 end
