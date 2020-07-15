@@ -23,8 +23,8 @@ def find_the_cheese(array)
 array_x = ["cheddar", "gouda", "camembert"]
 if array_x.include?("cheddar")
   true 
-else 
-  fals 
+elsif
+  return array_x[0] 
 end 
 
 
