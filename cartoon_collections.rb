@@ -19,7 +19,7 @@ def long_planeteer_calls(short_words)
    end
 end
 
-cheese = ["cheddar", "gouda", "camembert"]
+
 def find_the_cheese(cheese)
   if cheese.include?("cheddar")
     true
@@ -28,4 +28,3 @@ def find_the_cheese(cheese)
   end
 cheese
 end
-find_the_cheese(cheese)
